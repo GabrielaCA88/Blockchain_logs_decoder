@@ -1,6 +1,6 @@
 # Blockchain logs translator
 
-###Paste the ABI, data and topic that needs translation from any EVM based blockchain.
+### Paste the ABI, data and topic that needs translation from any EVM based blockchain.
 
 Please find the description and examples of all the procedures in RSK. 
 
