@@ -1,0 +1,8 @@
+<form action="{{ url_for('getfunction')}}" method="post">
+<label for="abi">ABI:</label>
+<input type="text" id="abi" name="abitext" placeholder="paste abi">
+<label for="data">Data :</label>
+<input type="text" id="data" name="datatext" placeholder="data">
+<label for="topics">Topics :</label>
+<input type="text" id="topics" name="topicstext" placeholder="topics">
+<button type="submit">Decode</button>
