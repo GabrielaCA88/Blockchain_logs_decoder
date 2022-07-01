@@ -13,7 +13,7 @@ The ABI can be found in the code tab of the corresponding rsk explorer. Please s
 
 ![image info](./pictures/abi_location.png)
 
-Once copy, paste it where it says "ABI". 
+Once copied, paste it where it says "ABI". 
 
 Data and topics are part of the logs and can be retrieved by multiple sources. RSK's real time data is available in [Covalent](https://www.covalenthq.com/platform/#/auth/login) that enabled queries to surf the chain. In order to retrieve the data it will be necessary a registry. 
 
@@ -43,9 +43,3 @@ The published ABIs for those kind of contracts do not match with the topics and 
 
 The source code for the site is licensed under the MIT license, which you can find in the MIT-LICENSE.txt file.
 
-**Sponsoring**
-
-If you would like to support this project, considering sponsoring through the following addresses: 
-
- - 0x04c36DCB572fad0b0F05b3b4DD4a2d95ca71A724 (DOC)
- - 0x04C36DcB572FAD0b0f05B3B4dd4A2d95Ca71a724 (eth) 
